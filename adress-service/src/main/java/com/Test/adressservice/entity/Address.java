@@ -23,6 +23,8 @@ public class Address {
 
         private String state;
         private int hotelsNumb;
+        private int housesNumb;
+
 
 
         private String zipCode;
