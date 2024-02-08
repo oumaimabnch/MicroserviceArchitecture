@@ -26,6 +26,8 @@ public class Address {
         private int housesNumb;
         private int test;
         private String testfinal;
+        private String hiifrommaster;
+
 
 
 
