@@ -25,6 +25,8 @@ public class Address {
         private int hotelsNumb;
         private int housesNumb;
         private int test;
+        private String testfinal;
+
 
 
 
