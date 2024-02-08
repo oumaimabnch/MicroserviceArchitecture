@@ -28,6 +28,8 @@ public class Address {
         private String testfinal;
         private String hiifrommaster;
         private String helloinanotherbranch;
+        private String frommaster;
+
 
 
 
