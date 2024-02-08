@@ -29,6 +29,8 @@ public class Address {
         private String hiifrommaster;
         private String helloinanotherbranch;
         private String frommaster;
+        private String fromanother;
+
 
 
 
